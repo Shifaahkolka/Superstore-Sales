@@ -3,7 +3,7 @@ Superstore Sales Dashboard (Tableau)
 This repository contains an interactive Sales Dashboard created using Tableau based on the Superstore dataset.  
 It highlights key business insights such as sales trends, profit margins, top-performing products, and regional performance.
 
- 🗂️ Project Overview
+  Project Overview
 
 Dashboard Includes:
 - Sales by Category & Sub-Category
